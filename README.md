@@ -1,9 +1,3 @@
 # ml_project_template
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+This is a starting template for any machine learing project. 
 ```
